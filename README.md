@@ -1,4 +1,4 @@
-# sk_hud
+# SK_HUD
 
 🌐 Simple & Clean HUD for FiveM
 Introducing our Simple HUD – a lightweight, sleek, and modern interface designed to give your players the essentials without overwhelming their screen. Built with clarity and performance in mind, this HUD delivers all the vital information at a glance, wrapped in an elegant, minimal design.
