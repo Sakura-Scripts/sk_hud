@@ -17,3 +17,5 @@ Optimized for performance (zero impact on FPS)
 Perfect for RP servers looking to enhance immersion without sacrificing simplicity.
 
 🎨 Designed with user experience in mind — just plug & play.
+
+# **Preview**
